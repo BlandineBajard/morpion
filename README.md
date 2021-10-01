@@ -15,5 +15,5 @@ Le Joueur qui a le tour suivant entre un chiffre entre 1 et 9 pour placer son pi
 
 - un exemple d’utilisation.
 
-![alt text](https://github.com/BlandineBajard/morpion/blob/7179900454fbb7eb69f7a75def72e0231ecb3553/morpion.png "Exemple utilisation")
+![alt text](https://github.com/BlandineBajard/morpion/blob/8be9a521d5c747aaee7ab9bd0b3b11b1d138beb7/morpion.png "Exemple utilisation")
 
