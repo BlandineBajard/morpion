@@ -14,3 +14,6 @@ Le Joueur qui a le premier tour entre un chiffre entre 1 et 9 pour placer son pi
 Le Joueur qui a le tour suivant entre un chiffre entre 1 et 9 pour placer son pion sur la grille. Les tours s'alternent jusqu'à ce qu'un des joueurs aligne 3 de ses pions ou jusqu'à l'égalité.
 
 - un exemple d’utilisation.
+
+![alt text](https://github.com/BlandineBajard/morpion/blob/7179900454fbb7eb69f7a75def72e0231ecb3553/morpion.png "Exemple utilisation")
+
