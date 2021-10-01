@@ -8,5 +8,9 @@ Le jeu demande le nom des joueurs puis choisit qui aura le premier tour à l'aid
 
 - la notice d’utilisation
 
+Le Joueur 1, saisit son nom
+Le Joueur 2, saisit son nom
+Le Joueur qui a le premier tour entre un chiffre entre 1 et 9 pour placer son pion sur la grille. Le pion est mis dans la case correspondante. On change de joueur.
+Le Joueur qui a le tour suivant entre un chiffre entre 1 et 9 pour placer son pion sur la grille. Les tours s'alternent jusqu'à ce qu'un des joueurs aligne 3 de ses pions ou jusqu'à l'égalité.
 
 - un exemple d’utilisation.
